@@ -14,6 +14,14 @@ Get in touch with us via email! bluedotconsortium+join@googlegroups.com
 
 ### Can I do the hackathon even if my school isn’t in the Blue Dot Consortium?
 
+Yes!
+
 ### Can I join if I am a high school student?
 
+Yes!
+
 ### I can’t come to the workshops, can I still do the hackathon?
+
+Yes!
+
+*Don't see your question answered here? [Send us an email!](mailto:bluedotconsortium+hackathon@googlegroups.com)*

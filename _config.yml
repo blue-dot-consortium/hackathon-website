@@ -18,6 +18,7 @@ navbar-links:
     - About: about
     - Rules: rules
     - Resources: resources
+    - FAQ: faq
   —Workshops—:
     - Intro to CubeSats: workshop_intro
     - Structures: workshop_structures
