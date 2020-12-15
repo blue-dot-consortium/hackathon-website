@@ -14,12 +14,23 @@ title: Blue Dawn
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About: about
-  Schedule: schedule
-  Rules: rules
-  Resources: resources
-  Previous Winners:
-    - 2021: 2021
+  Details:
+    - About: about
+    - Rules: rules
+    - Resources: resources
+  —Workshops—:
+    - Intro to CubeSats: workshop_intro
+    - Structures: workshop_structures
+    - On-Board Computers and Flight Software: workshop_obcs_and_fsw
+    - Electrical Power Systems: workshop_eps
+    - Communication Systems: workshop_comms
+    - Space Environment & Thermal: workshop_set
+    - Systems Tool Kit (STK): workshop_stk
+    - Payloads: workshop_payloads
+    - Attitude Determination & Control Systems: workshop_adcs
+  ⇨Calendar: "https://calendar.google.com/calendar/embed?src=36slmt0i1bqc82fgptkcvqjjb4%40group.calendar.google.com&ctz=America%2FLos_Angeles/"
+
+  
 
 # --- Logo --- #
 
