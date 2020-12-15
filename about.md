@@ -1,6 +1,6 @@
 ---
 layout: page
-title: hat is Blue Dawn?
+title: What is Blue Dawn?
 ---
 Blue Dawn began as an idea among the Blue Dot universities, who wondered “what is the fastest, cheapest, and best Cube Satellite that can be built by undergraduate students?” A Cube Satellite is a class of Small Satellite that comes in 10cmx10cmx10cm “units” (or “U”). These tiny satellites have allowed universities to design, build, and fly their own space missions as tag-alongs to larger satellites. Now, we want to reimagine the university CubeSat community as more collaborative and interconnected than ever before, while also developing a strong proof of concept for a minimum viable CubeSat. 
 
