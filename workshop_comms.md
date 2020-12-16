@@ -4,7 +4,7 @@ title: Communications Systems
 subtitle: The Bleep-Bloop between the satellite and you!
 ---
 
-Primary and Secondary Host: Dacheng Li, UCLA RAPID
+Primary and Secondary Host: Dacheng Li, UCLA Rapid
 
 Date/Time: 1-06-2020 5pm PST
 
