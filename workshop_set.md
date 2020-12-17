@@ -4,7 +4,7 @@ title: Space Enviroment & Thermal
 subtitle: It's the coolest, hottest, and most dangerous one of all.
 ---
 
-Primary and Secondary Host: RebelSat, Arshia Boorboor
+Primary and Secondary Host: Arshia Boorboor, RebelSat
 
 Date/Time: 1-06-2020 6pm PST
 

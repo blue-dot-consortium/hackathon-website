@@ -5,7 +5,7 @@ subtitle: This is what makes the satellites tick!
 ---
 
 
-Primary and Secondary Host: SSI (Flynn Dreilinger)
+Primary and Secondary Host: Flynn Dreilinger, SSI
 
 Date/Time: 1-05-2020 5-6pm PST
 
