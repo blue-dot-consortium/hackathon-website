@@ -23,7 +23,6 @@ navbar-links:
     - Intro to CubeSats: workshop_intro
     - Structures: workshop_structures
     - On-Board Computers and Flight Software: workshop_obcs_and_fsw
-    - Electrical Power Systems: workshop_eps
     - MATLAB CubeSat Simulation Set: workshop_matlab
     - Communication Systems: workshop_comms
     - Space Environment & Thermal: workshop_set
