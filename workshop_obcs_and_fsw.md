@@ -6,7 +6,7 @@ subtitle: This is what makes the satellites tick!
 
 Host: Flynn Dreilinger, SSI
 
-Date/Time: 1-05-2021 5-6pm PST
+Date/Time: 1-05-2021 4-5pm PST
 
 Zoom Link: [https://stanford.zoom.us/j/97054145956?pwd=cUZLNkFocXljdzhCR2VNNTNZREFZZz09](https://stanford.zoom.us/j/97054145956?pwd=cUZLNkFocXljdzhCR2VNNTNZREFZZz09)
 
