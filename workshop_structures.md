@@ -8,6 +8,6 @@ Primary and Secondary Host: Joseph, HarvardSEDS
 
 Date/Time: 1-04-2020 6pm PST
 
-Zoom Link: TBD
+Zoom Link: https://harvard.zoom.us/j/93060036527
 
 Basic Structure Design, Simulation and Testing for Flight, Interfaces (PC104/94x94) 
