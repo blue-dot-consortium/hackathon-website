@@ -4,7 +4,7 @@ title: Resources
 subtitle: Everything you need to design the minimum viable CubeSat
 ---
 
-# [Drive Folder](https://drive.google.com/drive/folders/1MUro3YB3UnfPr0GEX-8lsGiKMZF1L15s?usp=sharing)
+# [Starter Pack](https://drive.google.com/drive/folders/1MUro3YB3UnfPr0GEX-8lsGiKMZF1L15s?usp=sharing)
 In the Google Drive folder, you can find PDFs of documents such as the CubeSat 101 Handbook, State of the Art Smallsat Technologies document, CubeSat Design Specifications, and more. Be sure to look through these resources as they are EXTREMELY helpful!
 
 # [CubeSat.org](https://www.cubesat.org/cubesatinfo)
