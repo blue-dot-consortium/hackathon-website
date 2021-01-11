@@ -4,4 +4,4 @@ title: ZoomSat
 subtitle: Overall Winner and Best Use of STK
 ---
 
-## [Presentation](https://media.githubusercontent.com/media/blue-dot-consortium/hackathon-website/assets/2021/presentations/ZoomSat_Presentation_1-10-2021.pdf?raw=true)
+## [Presentation](https://docs.google.com/viewerng/viewer?url=https://github.com/blue-dot-consortium/hackathon-website/blob/assets/2021/Presentations/ZoomSat_Presentation_1-10-2021.pdf?raw%3Dtrue)

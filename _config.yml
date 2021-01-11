@@ -20,7 +20,7 @@ navbar-links:
     - Resources: resources
     - FAQ: faq
     - Calendar: "https://calendar.google.com/calendar/embed?src=36slmt0i1bqc82fgptkcvqjjb4%40group.calendar.google.com&ctz=America%2FLos_Angeles"
-  2021 Workshops—:
+  2021 Workshops:
     - Intro to CubeSats: workshop_intro
     - Structures: workshop_structures
     - On-Board Computers and Flight Software: workshop_obcs_and_fsw
