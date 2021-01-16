@@ -14,6 +14,6 @@ How will this CubeSat differ from other missions?
 
 - It’s inspired by the University of Colorado Boulder’s MIN-XSS CubeSat, and will be an instrumentally-simplified & cost-optimized version.
 
-## [Presentation](/_site/teams/phoenix/Phoenix_Presentation_1-11-2021.pdf) | [Recording](https://youtu.be/Lyt3gIv0D-0)
+## [Presentation](Phoenix_Presentation_1-11-2021.pdf) | [Recording](https://youtu.be/Lyt3gIv0D-0)
 
 ![Title Slide](title-slide.png){: .mx-auto.d-block :}
