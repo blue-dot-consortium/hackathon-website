@@ -24,7 +24,7 @@ Yes!
 
 Yes!
 
-## Will the Hackathon happen again?
+## Will the Hackathon happen again next year?
 
 Yes!
 

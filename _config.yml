@@ -15,23 +15,24 @@ title: Blue Dawn
 
 navbar-links:
   Details:
-    - About: about
-    - Rules: rules
-    - Resources: resources
-    - FAQ: faq
+    - About: details/about
+    - Rules: details/rules
+    - Resources: details/resources
+    - FAQ: details/faq
     - Calendar: "https://calendar.google.com/calendar/embed?src=36slmt0i1bqc82fgptkcvqjjb4%40group.calendar.google.com&ctz=America%2FLos_Angeles"
-  2021 Workshops:
-    - Intro to CubeSats: workshop_intro
-    - Structures: workshop_structures
-    - On-Board Computers and Flight Software: workshop_obcs_and_fsw
-    - MATLAB CubeSat Simulation Set: workshop_matlab
-    - Communication Systems: workshop_comms
-    - Space Environment & Thermal: workshop_set
-    - Systems Tool Kit (STK): workshop_stk
-    - Attitude Determination & Control Systems: workshop_adcs
-  2021 Winners:
-    - ZoomSat: team_zoomsat
-    - Phoenix:  team_phoenix
+  Workshops:
+    - Intro to CubeSats: workshops/intro
+    - Structures: workshops/structures
+    - On-Board Computers and Flight Software: workshops/obcs_and_fsw
+    - MATLAB CubeSat Simulation Set: workshops/matlab
+    - Communication Systems: workshops/comms
+    - Space Environment & Thermal: workshops/seet
+    - Systems Tool Kit (STK): workshops/stk
+    - Attitude Determination & Control Systems: workshops/adcs
+  Winners:
+    - ZoomSat: teams/zoomsat/index
+    - Phoenix:  teams/phoenix/index
+    - Closing Ceremony: "https://youtu.be/KRYhp2ZHgeY"
 
 
 # --- Logo --- #
@@ -57,17 +58,20 @@ social-network-links:
   facebook: "Blue-Dot-Consortium-100964805234170"
   github: blue-dot-consortium
   twitter: "BlueDotConsort"
-#  patreon: DeanAttali
   youtube: "channel/UCSQxHWbOmSKuhPbrtSWCGUQ"
-#  reddit: yourname
   linkedin: 9015349
-#  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
   instagram: bluedotconsortium
+#  patreon: yourname
+  
+#  reddit: yourname
+  
+#  xing: yourname
+#  stackoverflow: yourname
+#  snapchat: yourname
+  
 #  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
+#  telephone: yournumber
+#  steam: yourname
 #  twitch: yourname
 #  yelp: yourname
 #  telegram: yourname
