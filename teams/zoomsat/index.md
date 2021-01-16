@@ -12,6 +12,6 @@ The evapotranspiration of plants is correlated with forest fire risk. Healthy-lo
 
 We propose to launch ZoomSat into Low Earth Orbit to collect evapotranspiration data and predict forest fire risk in California and the United States.
 
-## [Presentation](/_site/teams/zoomsat/ZoomSat_Presentation_1-11-2021.pdf) | [Recording](https://youtu.be/4iuP1f3b1CI)
+## [Presentation](ZoomSat_Presentation_1-11-2021.pdf) | [Recording](https://youtu.be/4iuP1f3b1CI)
 
 ![Title Slide](title-slide.png){: .mx-auto.d-block :}
