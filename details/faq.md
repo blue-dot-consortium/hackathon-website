@@ -24,4 +24,8 @@ Yes!
 
 Yes!
 
+## Will the Hackathon happen again next year?
+
+Yes!
+
 *Don't see your question answered here? [Send us an email!](mailto:bluedotconsortium+hackathon@googlegroups.com)*
