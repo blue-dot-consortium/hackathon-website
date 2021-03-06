@@ -26,6 +26,6 @@ Yes!
 
 ## Will the Hackathon happen again next year?
 
-Yes!
+Yes! [Sign up to be notified about next year's hackathon](https://docs.google.com/forms/d/e/1FAIpQLSdIlYFDyGAdQT9OezD_W6zNrlbDesKELBuwnPhd24tBVefyUw/viewform?usp=sf_link)
 
 *Don't see your question answered here? [Send us an email!](mailto:bluedotconsortium+hackathon@googlegroups.com)*
